@@ -58,6 +58,7 @@ Use the media query
 
 ##Advice
 1. Web Programming is not school programming so don't get discouraged when you suck
+2. Imitate (steal) designs
 2. Gotta do it yourself, not just read about it (You can't get good at golf by reading about it)
 3. Excercise everyday for your body and mind
 4. Floss everyday
