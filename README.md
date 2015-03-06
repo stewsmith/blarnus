@@ -4,10 +4,15 @@
 1. Look at the design
 2. Do the html
 3. Do the Sass
+4. Make it flex
+5. Fit it on a phone
 4. All done
 
-## Look at the design
-[Link to the design](http://stewsmith.co/blarnus_app.pdf)
+##[Follow along](http://codepen.io/stewsmith/pen/qEMBJE?editors=110)
+
+
+## [Look at the design](http://stewsmith.co/blarnus_app.pdf)
+
 ####What are we looking for?
 1. Things in common (spacing, colors, fonts)
 2. Items on a grid
@@ -31,7 +36,15 @@ What is flexbox?
 * Can use for unknown number of items
 * Not supported by < IE 10
 
+Using flexbox
+
+* Container gets property `display: flex`
+* Children become flex items
+
+
 ##Responsive Design
+Use the media query  
+`@media only screen and (max-width: $phone-min-width) {...}`
 
 
 ##Resources
